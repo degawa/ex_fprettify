@@ -1,0 +1,12 @@
+name = "ex_fprettify"
+version = "0.1.0"
+license = "MIT"
+author = "Tomohiro Degawa"
+copyright = "Copyright 2021, Tomohiro Degawa"
+description = "Examples of fprettify"
+
+[build]
+auto-executables = true
+
+[install]
+library = false
